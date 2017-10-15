@@ -1,8 +1,43 @@
 {
   "snaps": [
-    { "id": 1, "title": "Test 1 Snap", "categories" : "Test, Rest API", "content" : "Test 1 using fake Rest API" },
-    { "id": 2, "title": "Test 2 Snap", "categories" : "Test 2, Rest API", "content" : "Test 2 using fake Rest API" },
-    { "id": 3, "title": "Test 3 Snap", "categories" : "Test 3, Rest API", "content" : "Test 3 using fake Rest API" },
-    { "id": 4, "title": "Test 4 Snap", "categories" : "Test 4, Rest API", "content" : "Test 4 using fake Rest API" }
+    {
+      "id": 1,
+      "title": "Test 1 Snap",
+      "categories": "Test, Rest API",
+      "content": "Test 1 using fake Rest API"
+    },
+    {
+      "title": "Test Post",
+      "categories": "test",
+      "content": "edited test post made by postman",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "title": "Test 4 Snap",
+      "categories": "Test 4, Rest API",
+      "content": "Test 4 using fake Rest API"
+    },
+    {
+      "title": "Test Post",
+      "categories": "test",
+      "content": "test post made by postman",
+      "id": 5
+    },
+    {
+      "title": "Test Post",
+      "categories": "test",
+      "content": "edited by postman",
+      "timeStamp": 1508088027250,
+      "id": 6
+    },
+    {
+      "title": "Test Post",
+      "categories": "test",
+      "content": "edited by postman",
+      "state": "not allowed",
+      "timeStamp": 1508088103743,
+      "id": 7
+    }
   ]
 }
