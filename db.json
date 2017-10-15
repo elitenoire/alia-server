@@ -1,0 +1,8 @@
+{
+  "snaps": [
+    { "id": 1, "title": "Test 1 Snap", "categories" : "Test, Rest API", "content" : "Test 1 using fake Rest API" },
+    { "id": 2, "title": "Test 2 Snap", "categories" : "Test 2, Rest API", "content" : "Test 2 using fake Rest API" },
+    { "id": 3, "title": "Test 3 Snap", "categories" : "Test 3, Rest API", "content" : "Test 3 using fake Rest API" },
+    { "id": 4, "title": "Test 4 Snap", "categories" : "Test 4, Rest API", "content" : "Test 4 using fake Rest API" }
+  ]
+}
