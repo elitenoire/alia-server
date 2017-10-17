@@ -5,7 +5,7 @@ const server = jsonServer.create();
 const router = jsonServer.router('db.json');
 //Use default options for middlewares
 const middlewares = jsonServer.defaults();
-const port = process.env.PORT || 3000;
+const port = process.env.PORT // || 3003;
 
 // Set default middlewares (logger, static, cors and no-cache)
 server.use(middlewares);
